@@ -6,5 +6,6 @@ https://www.youtube.com/watch?v=TK6EPvrmcBk - How to be a bad professor
 "What matters is the amount of projects you've completed, not the amount of projects you've started." <br>
 There is supposedly a third presentation: "how to give a bad presentation."
 <hr><hr>
-
 https://terrytao.wordpress.com/career-advice/work-hard/ - Says the modern day mathematics genius
+<hr><hr>
+https://www.youtube.com/watch?v=WELBnE33dpY&t=285s - "The common, the most popular paradigm in software is charisma driven development."
